@@ -1,0 +1,7 @@
+{
+    "name": "Elastic_Beanstalk_Proxy_protocol",
+    "version": "0.0.1",
+    "dependencies": {
+        "node-proxy-protocol": "1.0.0"
+    }
+}
